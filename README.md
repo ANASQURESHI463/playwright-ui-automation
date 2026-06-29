@@ -159,10 +159,10 @@ This project can also be executed automatically using GitHub Actions.
 
 To view the execution results:
 
-1.Open the GitHub repository.
-2.Click on the Actions tab.
-3.Select the latest workflow run.
-4.Review the test execution logs.
-5. Download the playwright-report artifact to view the HTML report locally.
+* Open the GitHub repository.
+* Click on the Actions tab.
+* Select the latest workflow run.
+* Review the test execution logs.
+* Download the playwright-report artifact to view the HTML report locally.
 
 **This allows the test suite to be executed remotely without requiring a local machine.**
