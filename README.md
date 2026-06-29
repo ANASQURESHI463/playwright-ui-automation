@@ -152,3 +152,17 @@ This framework follows the Page Object Model (POM):
 * **Test classes** contain assertions and business scenarios.
 
 This separation improves readability, maintainability, and reusability of the test code.
+
+## Running the Project via GitHub Actions
+
+This project can also be executed automatically using GitHub Actions.
+
+To view the execution results:
+
+1.Open the GitHub repository.
+2.Click on the Actions tab.
+3.Select the latest workflow run.
+4.Review the test execution logs.
+5. Download the playwright-report artifact to view the HTML report locally.
+
+**This allows the test suite to be executed remotely without requiring a local machine.**
